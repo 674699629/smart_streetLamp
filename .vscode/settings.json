@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "aht10.h": "c",
+        "jcfifo.h": "c",
+        "athandle.h": "c",
+        "rs485handle.h": "c"
+    }
+}
